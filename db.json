@@ -1,6 +1,20 @@
-[
-  { "name": "Book", "image": "book-image" },
-  { "name": "Mug", "image": "mug-image" },
-  { "name": "Tree", "image": "tree-image" },
-  { "name": "Ball", "image": "ball-image" }
-]
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "book"
+    },
+    {
+      "id": 2,
+      "name": "Mug"
+    },
+    {
+      "id": 3,
+      "name": "Tree"
+    },
+    {
+      "id": 4,
+      "name": "Ball"
+    }
+  ]
+}
