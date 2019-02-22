@@ -1,6 +1,6 @@
 [
-  { name: "Book", image: "book-image" },
-  { name: "Mug", image: "mug-image" },
-  { name: "Tree", image: "tree-image" },
-  { name: "Ball", image: "ball-image" }
+  { "name": "Book", "image": "book-image" },
+  { "name": "Mug", "image": "mug-image" },
+  { "name": "Tree", "image": "tree-image" },
+  { "name": "Ball", "image": "ball-image" }
 ]
